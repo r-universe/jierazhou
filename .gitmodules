@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GORCure"]
+	path = GORCure
+	url = https://github.com/cran/GORCure
+	shallow = true
+	registered = true
+[submodule "ICGOR"]
+	path = ICGOR
+	url = https://github.com/cran/ICGOR
+	shallow = true
+	registered = true
+[submodule "TransModel"]
+	path = TransModel
+	url = https://github.com/cran/TransModel
+	shallow = true
+	registered = true
